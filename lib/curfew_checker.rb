@@ -31,7 +31,7 @@ def deluxe_curfew_checker(time)
   if time < 11
   puts "your late. you are #{hours_left} late!"
   elsif time > 11
-  puts "your #{hours_left} early}
+  puts "your #{hours_left} early}"
 end 
 end
 
